@@ -12,9 +12,10 @@ class Quiz extends React.Component {
 	   return (
 		<div>
 		  <div className="QuizQuestion">
-		   
+		    Hej
 		  </div>
 		</div>
+		);
 	} 
 }
 
